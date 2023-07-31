@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: monospace;
+    background-color: #000;
+    color: #fff;
+}
+
+body{
+    border: 1px solid green;
+    height: 100vh;
+}
+
+header{
+    border: 1px solid red;
+    height: 10vh;
+}
+
+footer{
+    border: 1px solid yellow;
+    height: 10%;
+    width: 50vh;
+}
